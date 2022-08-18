@@ -1,0 +1,37 @@
+.search {
+    background-color: #EEEEEE;
+    width: auto;
+    height: 50px;
+}
+
+.box1 {
+    background-color: #7EE5DA;
+    width: 431px;
+    height: 56px;
+    float: left;
+    padding: 10px;
+    margin-top: 3px;
+    margin-right: 3px;
+}
+
+.box2 {
+    background-color: #70CCC2;
+    width: 20%;
+    height: 75px;
+    float: left;
+    margin-top: 3px;
+    margin-right: 3px;
+}
+
+.box3 {
+    background-color: #62B3AA;
+    width: 40%;
+    height: 75px;
+    float: right;
+    margin: 3px   
+}
+
+.card {
+    width: 90%;
+    margin: auto;
+}
